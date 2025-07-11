@@ -1,0 +1,2 @@
+hdfs dfs -mkdir /user/student_iceps17/healthcare_data
+hdfs dfs -ls /user/student_iceps17 
