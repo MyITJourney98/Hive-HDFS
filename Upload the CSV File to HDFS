@@ -1,0 +1,2 @@
+Hdfs dfs -put /home/student_iceps17/healthcare_dataset.csv /user/student_iceps17/healthcare_data/ 
+hdfs dfs -ls /user/student_iceps17/healthcare_data 
