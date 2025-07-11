@@ -1,0 +1,1 @@
+beeline -u jdbc:hive2://bigdatalab-cdh-mn1.uitm.edu.my:10000 -n username-p password
