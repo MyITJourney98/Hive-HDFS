@@ -12,3 +12,13 @@ Includes information on 10,000 patients from 8,639 hospitals, covering patient d
 
 Dataset Link
 https://www.kaggle.com/datasets/prasad22/healthcare-dataset
+
+
+1. Upload the file using WinSCP
+<img width="1010" height="606" alt="Syot layar 2025-07-04 224202" src="https://github.com/user-attachments/assets/526b17c5-4814-4840-82be-be2aa89cc0ae" />
+2. Create an HDFS Directory and Upload the File
+3. Upload the CSV File to HDFS
+4. Connect to Hive Using Beeline
+5. Switch to Database and List Existing Tables
+6. Create an External Table for Datahealthcare.csv
+7. Verify Table Creation 
